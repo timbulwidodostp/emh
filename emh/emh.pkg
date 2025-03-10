@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'emh': Extended Mantel-Haenszel Statistics (Cochran-Mantel-Haenszel) Stratified Test of Association Use emh With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f emh.ado
+f emh.sthlp
