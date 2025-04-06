@@ -1,6 +1,8 @@
 # emh
 Extended Mantel-Haenszel Statistics (Cochran-Mantel-Haenszel) Stratified Test of Association Use emh With STATA 18
 
+https://www.youtube.com/watch?v=egHkvW7XunA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
